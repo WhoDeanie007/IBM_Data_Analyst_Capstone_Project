@@ -1,5 +1,4 @@
-# IBM_Data_Analyst_Capstone_Project
-IBM Data Analyst Capstone Project
+# IBM Data Analyst Capstone Project
 Introduction To Capstone Project
 You have recently been hired as a Data Analyst by a global IT and business consulting services firm known for its expertise in IT solutions and its team of highly experienced IT consultants. To keep pace with changing technologies and remain competitive, your organization regularly analyzes data to help identify future skill requirements. 
 
